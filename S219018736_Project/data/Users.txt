@@ -1,0 +1,6 @@
+200 70 Clement Makobaki 500 10
+150 120 Ditiro Mlema 700 22
+300 340 Swey Swii 800 45
+50 90 Ntarck Malau 900 45
+100 180 Kat Lego 850 60
+400 60 Comayn Makgantshane 750 47
